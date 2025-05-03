@@ -1,7 +1,11 @@
 @font-face {
     font-family: 'superspace';
-    src: url('fonts/superspace.woff2') format('woff2'),
-         url('fonts/superspace.woff') format('woff');
+    src:url('fonts/Superspace Bold Italic ver 1.00.ttf') format('ttf'),
+        url('fonts/Superspace Bold ver 1.00.ttf') format('ttf'),
+        url('fonts/Superspace Light Italic ver 1.00.ttf') format('ttf'),
+        url('fonts/Superspace Light ver 1.00.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
   }
   
   body {
