@@ -1,9 +1,9 @@
 @font-face {
     font-family: 'superspace';
-    src:url('fonts/Superspace Bold Italic ver 1.00.ttf') format('ttf'),
-        url('fonts/Superspace Bold ver 1.00.ttf') format('ttf'),
-        url('fonts/Superspace Light Italic ver 1.00.ttf') format('ttf'),
-        url('fonts/Superspace Light ver 1.00.ttf') format('ttf');
+    src:url('fonts/Superspace Bold Italic ver 1.00.ttf') format('woff2'),
+        url('fonts/Superspace Bold ver 1.00.ttf') format('woff2'),
+        url('fonts/Superspace Light Italic ver 1.00.ttf') format('woff2'),
+        url('fonts/Superspace Light ver 1.00.ttf') format('woff2');
     font-weight: normal;
     font-style: normal;
   }
