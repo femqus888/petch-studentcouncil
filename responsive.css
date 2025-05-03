@@ -1,0 +1,134 @@
+@font-face {
+    font-family: 'superspace';
+    src: url('fonts/superspace.woff2') format('woff2'),
+         url('fonts/superspace.woff') format('woff');
+  }
+  
+  body {
+    font-family: 'MyFont', sans-serif;
+  }
+  
+@media only screen and (max-width:390px) {
+    body {
+        background-size: cover;
+    }
+    .navbar-top {
+        height: auto;
+        width: 100%;
+        max-width: 390px;
+        gap: 10px;
+    }
+    ul {
+        
+        font-size: 0.3rem;
+    }
+    .text-1 h4 {
+        font-size: 2rem;
+    }
+    .text-1 span {
+        font-size: 1.5rem;
+    }
+    .text-2 {
+        background-size: cover;
+    }
+}
+
+@media only screen and (max-width:360px) {
+    body {
+        background-size: cover;
+    }
+    .navbar-top {
+        height: auto;
+        width: 100%;
+        max-width: 360px;
+        font-size: 0.5rem;
+    }
+    ul {
+        gap: 20px;
+        font-size: 0.5rem;
+    }
+    .text-1 h4 {
+        font-size: 2rem;
+    }
+    .text-1 span {
+        font-size: 1.5rem;
+    }
+    .text-2 {
+        background-size: cover;
+    }
+}
+
+@media only screen and (max-width:430px) {
+    body {
+        background-size: cover;
+    }
+    .navbar-top {
+        height: auto;
+        width: 100%;
+        max-width: 430px;
+    }
+    ul {
+        gap: 15px;
+        font-size: 0.6rem;
+    }
+    .text-1 h4 {
+        font-size: 2rem;
+    }
+    .text-1 span {
+        font-size: 1.5rem;
+    }
+    .text-2 {
+        background-size: cover;
+    }
+}
+
+@media only screen and (max-width:412px) {
+    body {
+        background-size: cover;
+    }
+    .navbar-top {
+        height: auto;
+        width: 100%;
+        max-width: 412px;
+    }
+    ul {
+        gap: 15px;
+        font-size: 0.75rem;
+    }
+    .text-1 h4 {
+        font-size: 2rem;
+    }
+    .text-1 span {
+        font-size: 1.5rem;
+    }
+    .text-2 {
+        background-size: cover;
+    }
+}
+@media only screen and (max-width:768px) {
+    body {
+        background-size: cover;
+    }
+    .navbar-top {
+        height: auto;
+        width: 100%;
+        max-width: 768px;
+    }
+    ul {
+        gap: 60px;
+        font-size: 0.6rem;
+    }
+    .text-1 h4 {
+        font-size: 2rem;
+    }
+    .text-1 span {
+        font-size: 1.5rem;
+    }
+    .text-2 {
+        background-size: cover;
+    }
+}
+@media (max-width:360px) {
+    
+    
+}
