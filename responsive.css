@@ -18,22 +18,26 @@
         background-size: cover;
     }
     .navbar-top {
+        font-family: superspace;
         height: auto;
         width: 100%;
         max-width: 390px;
         gap: 10px;
     }
     ul {
-        
+        font-family: superspace;
         font-size: 0.3rem;
     }
     .text-1 h4 {
+        font-family: superspace;
         font-size: 2rem;
     }
     .text-1 span {
+        font-family: superspace;
         font-size: 1.5rem;
     }
     .text-2 {
+        font-family: superspace;
         background-size: cover;
     }
 }
@@ -41,95 +45,119 @@
 @media only screen and (max-width:360px) {
     body {
         background-size: cover;
+        font-family: superspace;
     }
     .navbar-top {
+        font-family: superspace;
         height: auto;
         width: 100%;
         max-width: 360px;
         font-size: 0.5rem;
     }
     ul {
+        font-family: superspace;
         gap: 20px;
         font-size: 0.5rem;
     }
     .text-1 h4 {
+        font-family: superspace;
         font-size: 2rem;
     }
     .text-1 span {
+        font-family: superspace;
         font-size: 1.5rem;
     }
     .text-2 {
+        font-family: superspace;
         background-size: cover;
     }
 }
 
 @media only screen and (max-width:430px) {
     body {
+        font-family: superspace;
         background-size: cover;
     }
     .navbar-top {
+        font-family: superspace;
         height: auto;
         width: 100%;
         max-width: 430px;
     }
     ul {
+        font-family: superspace;
         gap: 15px;
         font-size: 0.6rem;
     }
     .text-1 h4 {
+        font-family: superspace;
         font-size: 2rem;
     }
     .text-1 span {
+        font-family: superspace;
         font-size: 1.5rem;
     }
     .text-2 {
+        font-family: superspace;
         background-size: cover;
     }
 }
 
 @media only screen and (max-width:412px) {
     body {
+        font-family: superspace;
         background-size: cover;
     }
     .navbar-top {
+        font-family: superspace;
         height: auto;
         width: 100%;
         max-width: 412px;
     }
     ul {
+        font-family: superspace;
         gap: 15px;
         font-size: 0.75rem;
     }
     .text-1 h4 {
+        font-family: superspace;
         font-size: 2rem;
     }
     .text-1 span {
+        font-family: superspace;
         font-size: 1.5rem;
     }
     .text-2 {
+        font-family: superspace;
         background-size: cover;
     }
 }
 @media only screen and (max-width:768px) {
     body {
         background-size: cover;
+        font-family: superspace;
     }
     .navbar-top {
+        font-family: superspace;
         height: auto;
         width: 100%;
         max-width: 768px;
     }
     ul {
+        font-family: superspace;
         gap: 60px;
         font-size: 0.6rem;
     }
     .text-1 h4 {
+        font-family: superspace;
         font-size: 2rem;
     }
     .text-1 span {
+        font-family: superspace;
         font-size: 1.5rem;
     }
     .text-2 {
+        font-family: superspace;
         background-size: cover;
     }
 }
